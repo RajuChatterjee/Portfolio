@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url("https://th.bing.com/th/id/R.f00fd94f909133f9dd93dd746a0f52bf?rik=8UmsZsDArG0x4w&riu=http%3a%2f%2fwww.baltana.com%2ffiles%2fwallpapers-5%2fLight-Rays-Background-Wallpaper-18182.jpg&ehk=fDaY%2brgovOQyUVM%2fpmw5iObp0zlI0cJ%2fyFNch9LS0IY%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    margin-top: 100px;
+    width: 360px;
+    height: 600px;
+    border-radius: 5px;
+    border: 2px solid white;
+   
+}
+
+h1 {
+    color: rgb(0, 191, 255);
+    font-weight: 700;
+    font-size: 40px;
+}
+.myimage {
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 3px solid white;
+   
+}
+
+
+
+.top_line {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    box-shadow: 2px 2px;
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(0, 191, 255);;
+}
+
+p {
+    color: black;
+}
+
+hr {
+    color: black;
+    font-weight: 800;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+
+.fa-twitter {
+    background: #007bb5;
+    color: white;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
